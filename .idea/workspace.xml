@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7038c792-25ea-45c2-939a-9b5a80c6a594" name="Changes" comment="fraction addition :)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/zsazu/CarLoanCalculator.java" afterDir="false" />
+    <list default="true" id="7038c792-25ea-45c2-939a-9b5a80c6a594" name="Changes" comment="create CarLoanCalculator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/zsazu/CarLoanCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/zsazu/CarLoanCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/zsazu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/zsazu/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,7 @@
       <command value="gradle --dry-run" />
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.SimpleCalculator">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.zsazu.Main" />
       <module name="SimpleCalculator.main" />
@@ -148,7 +149,7 @@
       <workItem from="1672542697229" duration="780000" />
       <workItem from="1672543525083" duration="2629000" />
       <workItem from="1672550557520" duration="24000" />
-      <workItem from="1672550667885" duration="5786000" />
+      <workItem from="1672550667885" duration="6400000" />
     </task>
     <task id="LOCAL-00001" summary="SimpleCalculator class">
       <created>1672543703071</created>
@@ -178,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672559132464</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="create CarLoanCalculator">
+      <created>1672561507610</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672561507610</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +197,7 @@
     <MESSAGE value="add, subtract, multiply, divide, modulo methods" />
     <MESSAGE value="fraction class" />
     <MESSAGE value="fraction addition :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="fraction addition :)" />
+    <MESSAGE value="create CarLoanCalculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="create CarLoanCalculator" />
   </component>
 </project>
